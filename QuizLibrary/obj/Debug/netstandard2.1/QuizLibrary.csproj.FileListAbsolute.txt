@@ -1,0 +1,10 @@
+C:\Users\mafsp\OneDrive\Рабочий стол\Quiz-app-main\QuizLibrary\bin\Debug\netstandard2.1\QuizLibrary.deps.json
+C:\Users\mafsp\OneDrive\Рабочий стол\Quiz-app-main\QuizLibrary\bin\Debug\netstandard2.1\QuizLibrary.dll
+C:\Users\mafsp\OneDrive\Рабочий стол\Quiz-app-main\QuizLibrary\bin\Debug\netstandard2.1\QuizLibrary.pdb
+C:\Users\mafsp\OneDrive\Рабочий стол\Quiz-app-main\QuizLibrary\obj\Debug\netstandard2.1\QuizLibrary.csproj.AssemblyReference.cache
+C:\Users\mafsp\OneDrive\Рабочий стол\Quiz-app-main\QuizLibrary\obj\Debug\netstandard2.1\QuizLibrary.GeneratedMSBuildEditorConfig.editorconfig
+C:\Users\mafsp\OneDrive\Рабочий стол\Quiz-app-main\QuizLibrary\obj\Debug\netstandard2.1\QuizLibrary.AssemblyInfoInputs.cache
+C:\Users\mafsp\OneDrive\Рабочий стол\Quiz-app-main\QuizLibrary\obj\Debug\netstandard2.1\QuizLibrary.AssemblyInfo.cs
+C:\Users\mafsp\OneDrive\Рабочий стол\Quiz-app-main\QuizLibrary\obj\Debug\netstandard2.1\QuizLibrary.csproj.CoreCompileInputs.cache
+C:\Users\mafsp\OneDrive\Рабочий стол\Quiz-app-main\QuizLibrary\obj\Debug\netstandard2.1\QuizLibrary.dll
+C:\Users\mafsp\OneDrive\Рабочий стол\Quiz-app-main\QuizLibrary\obj\Debug\netstandard2.1\QuizLibrary.pdb

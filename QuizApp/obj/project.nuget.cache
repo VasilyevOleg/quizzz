@@ -1,0 +1,10 @@
+{
+  "version": 2,
+  "dgSpecHash": "IbGBX4Fqi0F+U3SxheJLN0TdS+VWijqeLQEt7/Jw+Ao2fcEYcVrdbo+jZTrL0FbaYJ0rLWh+1FMQ229/zpgStw==",
+  "success": true,
+  "projectFilePath": "C:\\Users\\mafsp\\OneDrive\\Рабочий стол\\Quiz-app-main\\QuizApp\\QuizApp.csproj",
+  "expectedPackageFiles": [
+    "C:\\Users\\mafsp\\.nuget\\packages\\system.text.json\\5.0.2\\system.text.json.5.0.2.nupkg.sha512"
+  ],
+  "logs": []
+}

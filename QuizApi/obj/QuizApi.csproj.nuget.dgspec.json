@@ -1,0 +1,128 @@
+{
+  "format": 1,
+  "restore": {
+    "C:\\Users\\mafsp\\OneDrive\\Рабочий стол\\Quiz-app-main\\QuizApi\\QuizApi.csproj": {}
+  },
+  "projects": {
+    "C:\\Users\\mafsp\\OneDrive\\Рабочий стол\\Quiz-app-main\\QuizApi\\QuizApi.csproj": {
+      "version": "1.0.0",
+      "restore": {
+        "projectUniqueName": "C:\\Users\\mafsp\\OneDrive\\Рабочий стол\\Quiz-app-main\\QuizApi\\QuizApi.csproj",
+        "projectName": "QuizApi",
+        "projectPath": "C:\\Users\\mafsp\\OneDrive\\Рабочий стол\\Quiz-app-main\\QuizApi\\QuizApi.csproj",
+        "packagesPath": "C:\\Users\\mafsp\\.nuget\\packages\\",
+        "outputPath": "C:\\Users\\mafsp\\OneDrive\\Рабочий стол\\Quiz-app-main\\QuizApi\\obj\\",
+        "projectStyle": "PackageReference",
+        "configFilePaths": [
+          "C:\\Users\\mafsp\\AppData\\Roaming\\NuGet\\NuGet.Config",
+          "C:\\Program Files (x86)\\NuGet\\Config\\Microsoft.VisualStudio.Offline.config"
+        ],
+        "originalTargetFrameworks": [
+          "netstandard2.1"
+        ],
+        "sources": {
+          "C:\\Program Files (x86)\\Microsoft SDKs\\NuGetPackages\\": {},
+          "https://api.nuget.org/v3/index.json": {}
+        },
+        "frameworks": {
+          "netstandard2.1": {
+            "targetAlias": "netstandard2.1",
+            "projectReferences": {
+              "C:\\Users\\mafsp\\OneDrive\\Рабочий стол\\Quiz-app-main\\QuizLibrary\\QuizLibrary.csproj": {
+                "projectPath": "C:\\Users\\mafsp\\OneDrive\\Рабочий стол\\Quiz-app-main\\QuizLibrary\\QuizLibrary.csproj"
+              }
+            }
+          }
+        },
+        "warningProperties": {
+          "warnAsError": [
+            "NU1605"
+          ]
+        }
+      },
+      "frameworks": {
+        "netstandard2.1": {
+          "targetAlias": "netstandard2.1",
+          "imports": [
+            "net461",
+            "net462",
+            "net47",
+            "net471",
+            "net472",
+            "net48",
+            "net481"
+          ],
+          "assetTargetFallback": true,
+          "warn": true,
+          "frameworkReferences": {
+            "NETStandard.Library": {
+              "privateAssets": "all"
+            }
+          },
+          "runtimeIdentifierGraphPath": "C:\\Program Files\\dotnet\\sdk\\6.0.402\\RuntimeIdentifierGraph.json"
+        }
+      }
+    },
+    "C:\\Users\\mafsp\\OneDrive\\Рабочий стол\\Quiz-app-main\\QuizLibrary\\QuizLibrary.csproj": {
+      "version": "1.0.0",
+      "restore": {
+        "projectUniqueName": "C:\\Users\\mafsp\\OneDrive\\Рабочий стол\\Quiz-app-main\\QuizLibrary\\QuizLibrary.csproj",
+        "projectName": "QuizLibrary",
+        "projectPath": "C:\\Users\\mafsp\\OneDrive\\Рабочий стол\\Quiz-app-main\\QuizLibrary\\QuizLibrary.csproj",
+        "packagesPath": "C:\\Users\\mafsp\\.nuget\\packages\\",
+        "outputPath": "C:\\Users\\mafsp\\OneDrive\\Рабочий стол\\Quiz-app-main\\QuizLibrary\\obj\\",
+        "projectStyle": "PackageReference",
+        "configFilePaths": [
+          "C:\\Users\\mafsp\\AppData\\Roaming\\NuGet\\NuGet.Config",
+          "C:\\Program Files (x86)\\NuGet\\Config\\Microsoft.VisualStudio.Offline.config"
+        ],
+        "originalTargetFrameworks": [
+          "netstandard2.1"
+        ],
+        "sources": {
+          "C:\\Program Files (x86)\\Microsoft SDKs\\NuGetPackages\\": {},
+          "https://api.nuget.org/v3/index.json": {}
+        },
+        "frameworks": {
+          "netstandard2.1": {
+            "targetAlias": "netstandard2.1",
+            "projectReferences": {}
+          }
+        },
+        "warningProperties": {
+          "warnAsError": [
+            "NU1605"
+          ]
+        }
+      },
+      "frameworks": {
+        "netstandard2.1": {
+          "targetAlias": "netstandard2.1",
+          "dependencies": {
+            "System.Text.Json": {
+              "target": "Package",
+              "version": "[5.0.2, )"
+            }
+          },
+          "imports": [
+            "net461",
+            "net462",
+            "net47",
+            "net471",
+            "net472",
+            "net48",
+            "net481"
+          ],
+          "assetTargetFallback": true,
+          "warn": true,
+          "frameworkReferences": {
+            "NETStandard.Library": {
+              "privateAssets": "all"
+            }
+          },
+          "runtimeIdentifierGraphPath": "C:\\Program Files\\dotnet\\sdk\\6.0.402\\RuntimeIdentifierGraph.json"
+        }
+      }
+    }
+  }
+}
